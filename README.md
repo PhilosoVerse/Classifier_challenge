@@ -9,3 +9,4 @@ Goals
 
 Results ->
 the random forest trees where the most accurate , knn also did really well.
+the bagging and boosting on the logistic regression had a positive effect
